@@ -1,0 +1,107 @@
+@charset "utf-8";
+/* CSS Document */
+
+* { 
+	margin: 0; 
+	padding: 0; 
+	font-size: 12px; 
+	line-height: 20px; 
+	background-color: whitesmoke; 
+	outline: none; 
+	font-weight: 300; 
+	box-sizing: border-box; 
+}
+
+div {
+	border: 1px solid rgba(245,7,11,1.00);
+}
+
+/* =============== Topo =================== */
+#topo {
+	width: 99%;
+	height: 100px;
+	background-color: white;
+}
+
+#menu {
+	width: 180px;
+	height: 50;
+	background-color: aquamarine;
+	margin-left: 50px;
+	margin-top: 30px;
+}
+
+li {
+	display: inline;
+	padding: 2px 4px;
+	margin-top: 3px;
+	border-right: 1px solid rgba(103,99,100,1.00);
+	background-color: burlywood;
+}
+
+/* =============== Banner =================== */
+
+
+/* =============== Conteudo =================== */
+
+#esquerda {
+	width: 40%;
+	height: 20em;
+	margin: 10px;
+	/*margin-left: 3em;
+	margin-right: 3em;
+	border: 1px solid rgba(0,0,0,1.00);
+	float: left;*/
+	display: inline-block;
+	/*background-color: hsla(0,0%,13%,0.60);*/
+}
+
+#direita {
+	display: inline-block;
+	width: 40%;
+	height: 20em;
+	border: 1px solid rgba(0,0,0,1.00);
+}
+
+tr {
+	/*display: inline-block;*/
+}
+
+h1 {
+	font-size: 22px; text-align: center; font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, -serif;
+}
+
+.bloco { width: 30%;
+	height: auto;
+	margin: 1em 1em;
+	padding: 1em 1em;
+	border: 1px solid rgba(252,251,251,1.00);
+	background-color: rgba(149,149,205,1.00);
+	float: left;
+	opacity: 0.2;
+	border-radius: 5px;
+}
+
+.bloco:hover {
+	opacity: 0.9;
+}
+
+.bloco {
+	box-shadow: 3px 3px 124px blue;
+}
+
+#texto1 {
+	font-family: Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";
+}
+
+#texto2 {
+	font-family: Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana," sans-serif";
+	color: white;
+}
+
+#banner {
+	height: 200px;
+	border: 1px dotted rgba(0,0,0,1.00);
+}
+.ddd {
+}

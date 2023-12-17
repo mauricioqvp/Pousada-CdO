@@ -1,0 +1,211 @@
+[05-Oct-2023 19:00:04 America/Fortaleza] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$' in /home3/pousa584/public_html/enviar_email.php on line 13
+[05-Oct-2023 19:01:09 America/Fortaleza] PHP Warning:  mail() expects at most 5 parameters, 7 given in /home3/pousa584/public_html/enviar_email.php on line 13
+[05-Oct-2023 19:05:10 America/Fortaleza] PHP Warning:  mail() expects at most 5 parameters, 7 given in /home3/pousa584/public_html/enviar_email.php on line 17
+[05-Oct-2023 19:05:39 America/Fortaleza] PHP Warning:  mail() expects at most 5 parameters, 7 given in /home3/pousa584/public_html/enviar_email.php on line 17
+[05-Oct-2023 19:09:23 America/Fortaleza] PHP Warning:  mail() expects at least 3 parameters, 2 given in /home3/pousa584/public_html/enviar_email.php on line 23
+[05-Oct-2023 19:10:56 America/Fortaleza] PHP Warning:  mail() expects at least 3 parameters, 2 given in /home3/pousa584/public_html/enviar_email.php on line 23
+[05-Oct-2023 19:11:14 America/Fortaleza] PHP Warning:  mail() expects at least 3 parameters, 2 given in /home3/pousa584/public_html/enviar_email.php on line 23
+[05-Oct-2023 19:13:25 America/Fortaleza] PHP Warning:  mail() expects at least 3 parameters, 2 given in /home3/pousa584/public_html/enviar_email.php on line 23
+[05-Oct-2023 19:15:48 America/Fortaleza] PHP Warning:  mail() expects at least 3 parameters, 2 given in /home3/pousa584/public_html/enviar_email.php on line 28
+[05-Oct-2023 19:16:42 America/Fortaleza] PHP Warning:  mail() expects at least 3 parameters, 2 given in /home3/pousa584/public_html/enviar_email.php on line 28
+[05-Oct-2023 19:21:41 America/Fortaleza] PHP Warning:  mail() expects at least 3 parameters, 2 given in /home3/pousa584/public_html/enviar_email.php on line 28
+[02-Nov-2023 03:04:53 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[02-Nov-2023 04:00:21 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[02-Nov-2023 14:37:05 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[02-Nov-2023 19:22:53 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[02-Nov-2023 22:24:43 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[03-Nov-2023 04:04:07 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[04-Nov-2023 12:58:07 America/Fortaleza] PHP Warning:  Undefined array key "destinatario" in /home3/pousa584/public_html/enviar_email.php on line 16
+[04-Nov-2023 12:58:07 America/Fortaleza] PHP Warning:  Undefined array key "assunto" in /home3/pousa584/public_html/enviar_email.php on line 18
+[04-Nov-2023 12:58:07 America/Fortaleza] PHP Warning:  Undefined array key "mensagem" in /home3/pousa584/public_html/enviar_email.php on line 20
+[04-Nov-2023 19:10:21 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[05-Nov-2023 00:07:06 America/Fortaleza] PHP Warning:  Undefined array key "destinatario" in /home3/pousa584/public_html/enviar_email.php on line 16
+[05-Nov-2023 00:07:06 America/Fortaleza] PHP Warning:  Undefined array key "assunto" in /home3/pousa584/public_html/enviar_email.php on line 18
+[05-Nov-2023 00:07:06 America/Fortaleza] PHP Warning:  Undefined array key "mensagem" in /home3/pousa584/public_html/enviar_email.php on line 20
+[05-Nov-2023 00:46:29 America/Fortaleza] PHP Warning:  Undefined array key "destinatario" in /home3/pousa584/public_html/enviar_email.php on line 16
+[05-Nov-2023 00:46:29 America/Fortaleza] PHP Warning:  Undefined array key "assunto" in /home3/pousa584/public_html/enviar_email.php on line 18
+[05-Nov-2023 00:46:29 America/Fortaleza] PHP Warning:  Undefined array key "mensagem" in /home3/pousa584/public_html/enviar_email.php on line 20
+[05-Nov-2023 04:25:13 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[05-Nov-2023 04:38:23 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[05-Nov-2023 09:29:04 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[05-Nov-2023 16:57:28 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[05-Nov-2023 21:24:14 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[06-Nov-2023 03:41:18 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[06-Nov-2023 08:43:49 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[06-Nov-2023 17:41:06 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[06-Nov-2023 22:57:38 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[07-Nov-2023 00:04:59 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[07-Nov-2023 16:11:57 America/Fortaleza] PHP Warning:  Undefined array key "destinatario" in /home3/pousa584/public_html/enviar_email.php on line 16
+[07-Nov-2023 16:11:57 America/Fortaleza] PHP Warning:  Undefined array key "assunto" in /home3/pousa584/public_html/enviar_email.php on line 18
+[07-Nov-2023 16:11:57 America/Fortaleza] PHP Warning:  Undefined array key "mensagem" in /home3/pousa584/public_html/enviar_email.php on line 20
+[08-Nov-2023 09:17:49 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[09-Nov-2023 07:44:27 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[10-Nov-2023 09:31:07 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[10-Nov-2023 20:14:44 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[11-Nov-2023 08:52:55 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[11-Nov-2023 08:56:28 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[11-Nov-2023 09:16:08 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[11-Nov-2023 19:42:57 America/Fortaleza] PHP Warning:  Undefined array key "destinatario" in /home3/pousa584/public_html/enviar_email.php on line 16
+[11-Nov-2023 19:42:57 America/Fortaleza] PHP Warning:  Undefined array key "assunto" in /home3/pousa584/public_html/enviar_email.php on line 18
+[11-Nov-2023 19:42:57 America/Fortaleza] PHP Warning:  Undefined array key "mensagem" in /home3/pousa584/public_html/enviar_email.php on line 20
+[12-Nov-2023 06:16:36 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[12-Nov-2023 06:24:23 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[12-Nov-2023 08:28:08 America/Fortaleza] PHP Warning:  Undefined array key "destinatario" in /home3/pousa584/public_html/enviar_email.php on line 16
+[12-Nov-2023 08:28:08 America/Fortaleza] PHP Warning:  Undefined array key "assunto" in /home3/pousa584/public_html/enviar_email.php on line 18
+[12-Nov-2023 08:28:08 America/Fortaleza] PHP Warning:  Undefined array key "mensagem" in /home3/pousa584/public_html/enviar_email.php on line 20
+[12-Nov-2023 20:51:26 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[13-Nov-2023 01:47:39 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[13-Nov-2023 08:51:02 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[13-Nov-2023 12:24:35 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[14-Nov-2023 05:56:54 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[14-Nov-2023 06:56:20 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[14-Nov-2023 06:56:33 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[15-Nov-2023 21:47:04 America/Fortaleza] PHP Warning:  Undefined array key "destinatario" in /home3/pousa584/public_html/enviar_email.php on line 16
+[15-Nov-2023 21:47:04 America/Fortaleza] PHP Warning:  Undefined array key "assunto" in /home3/pousa584/public_html/enviar_email.php on line 18
+[15-Nov-2023 21:47:04 America/Fortaleza] PHP Warning:  Undefined array key "mensagem" in /home3/pousa584/public_html/enviar_email.php on line 20
+[15-Nov-2023 22:14:11 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[16-Nov-2023 05:22:41 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[16-Nov-2023 06:57:49 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[17-Nov-2023 07:50:23 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[17-Nov-2023 17:24:53 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[17-Nov-2023 22:14:42 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[17-Nov-2023 22:14:48 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[17-Nov-2023 22:14:55 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[18-Nov-2023 01:21:38 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[19-Nov-2023 05:53:29 America/Fortaleza] PHP Warning:  Undefined array key "destinatario" in /home3/pousa584/public_html/enviar_email.php on line 16
+[19-Nov-2023 05:53:29 America/Fortaleza] PHP Warning:  Undefined array key "assunto" in /home3/pousa584/public_html/enviar_email.php on line 18
+[19-Nov-2023 05:53:29 America/Fortaleza] PHP Warning:  Undefined array key "mensagem" in /home3/pousa584/public_html/enviar_email.php on line 20
+[19-Nov-2023 11:06:02 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[19-Nov-2023 11:19:52 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[20-Nov-2023 03:24:09 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[20-Nov-2023 08:03:40 America/Fortaleza] PHP Warning:  Undefined array key "destinatario" in /home3/pousa584/public_html/enviar_email.php on line 16
+[20-Nov-2023 08:03:40 America/Fortaleza] PHP Warning:  Undefined array key "assunto" in /home3/pousa584/public_html/enviar_email.php on line 18
+[20-Nov-2023 08:03:40 America/Fortaleza] PHP Warning:  Undefined array key "mensagem" in /home3/pousa584/public_html/enviar_email.php on line 20
+[20-Nov-2023 08:41:50 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[20-Nov-2023 10:30:05 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[21-Nov-2023 04:22:15 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[21-Nov-2023 05:05:30 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[21-Nov-2023 14:53:46 America/Fortaleza] PHP Warning:  Undefined array key "destinatario" in /home3/pousa584/public_html/enviar_email.php on line 16
+[21-Nov-2023 14:53:46 America/Fortaleza] PHP Warning:  Undefined array key "assunto" in /home3/pousa584/public_html/enviar_email.php on line 18
+[21-Nov-2023 14:53:46 America/Fortaleza] PHP Warning:  Undefined array key "mensagem" in /home3/pousa584/public_html/enviar_email.php on line 20
+[22-Nov-2023 12:13:13 America/Fortaleza] PHP Warning:  Undefined array key "destinatario" in /home3/pousa584/public_html/enviar_email.php on line 16
+[22-Nov-2023 12:13:13 America/Fortaleza] PHP Warning:  Undefined array key "assunto" in /home3/pousa584/public_html/enviar_email.php on line 18
+[22-Nov-2023 12:13:13 America/Fortaleza] PHP Warning:  Undefined array key "mensagem" in /home3/pousa584/public_html/enviar_email.php on line 20
+[22-Nov-2023 14:08:15 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[23-Nov-2023 13:33:51 America/Fortaleza] PHP Warning:  Undefined array key "destinatario" in /home3/pousa584/public_html/enviar_email.php on line 16
+[23-Nov-2023 13:33:51 America/Fortaleza] PHP Warning:  Undefined array key "assunto" in /home3/pousa584/public_html/enviar_email.php on line 18
+[23-Nov-2023 13:33:51 America/Fortaleza] PHP Warning:  Undefined array key "mensagem" in /home3/pousa584/public_html/enviar_email.php on line 20
+[23-Nov-2023 14:36:51 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[24-Nov-2023 02:57:49 America/Fortaleza] PHP Warning:  Undefined array key "destinatario" in /home3/pousa584/public_html/enviar_email.php on line 16
+[24-Nov-2023 02:57:49 America/Fortaleza] PHP Warning:  Undefined array key "assunto" in /home3/pousa584/public_html/enviar_email.php on line 18
+[24-Nov-2023 02:57:49 America/Fortaleza] PHP Warning:  Undefined array key "mensagem" in /home3/pousa584/public_html/enviar_email.php on line 20
+[24-Nov-2023 03:14:12 America/Fortaleza] PHP Warning:  Undefined array key "destinatario" in /home3/pousa584/public_html/enviar_email.php on line 16
+[24-Nov-2023 03:14:12 America/Fortaleza] PHP Warning:  Undefined array key "assunto" in /home3/pousa584/public_html/enviar_email.php on line 18
+[24-Nov-2023 03:14:12 America/Fortaleza] PHP Warning:  Undefined array key "mensagem" in /home3/pousa584/public_html/enviar_email.php on line 20
+[24-Nov-2023 05:00:25 America/Fortaleza] PHP Warning:  Undefined array key "destinatario" in /home3/pousa584/public_html/enviar_email.php on line 16
+[24-Nov-2023 05:00:25 America/Fortaleza] PHP Warning:  Undefined array key "assunto" in /home3/pousa584/public_html/enviar_email.php on line 18
+[24-Nov-2023 05:00:25 America/Fortaleza] PHP Warning:  Undefined array key "mensagem" in /home3/pousa584/public_html/enviar_email.php on line 20
+[24-Nov-2023 08:23:40 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[24-Nov-2023 09:19:13 America/Fortaleza] PHP Warning:  Undefined array key "destinatario" in /home3/pousa584/public_html/enviar_email.php on line 16
+[24-Nov-2023 09:19:13 America/Fortaleza] PHP Warning:  Undefined array key "assunto" in /home3/pousa584/public_html/enviar_email.php on line 18
+[24-Nov-2023 09:19:13 America/Fortaleza] PHP Warning:  Undefined array key "mensagem" in /home3/pousa584/public_html/enviar_email.php on line 20
+[24-Nov-2023 14:03:17 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[24-Nov-2023 16:09:06 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[25-Nov-2023 10:39:30 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[26-Nov-2023 03:17:18 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[26-Nov-2023 14:38:45 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[26-Nov-2023 14:46:57 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[27-Nov-2023 08:21:12 America/Fortaleza] PHP Warning:  Undefined array key "destinatario" in /home3/pousa584/public_html/enviar_email.php on line 16
+[27-Nov-2023 08:21:12 America/Fortaleza] PHP Warning:  Undefined array key "assunto" in /home3/pousa584/public_html/enviar_email.php on line 18
+[27-Nov-2023 08:21:12 America/Fortaleza] PHP Warning:  Undefined array key "mensagem" in /home3/pousa584/public_html/enviar_email.php on line 20
+[27-Nov-2023 08:43:49 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[27-Nov-2023 09:35:43 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[27-Nov-2023 09:36:44 America/Fortaleza] PHP Warning:  Undefined array key "destinatario" in /home3/pousa584/public_html/enviar_email.php on line 16
+[27-Nov-2023 09:36:44 America/Fortaleza] PHP Warning:  Undefined array key "assunto" in /home3/pousa584/public_html/enviar_email.php on line 18
+[27-Nov-2023 09:36:44 America/Fortaleza] PHP Warning:  Undefined array key "mensagem" in /home3/pousa584/public_html/enviar_email.php on line 20
+[27-Nov-2023 12:41:40 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[27-Nov-2023 20:52:09 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[28-Nov-2023 05:19:59 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[28-Nov-2023 05:47:34 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[28-Nov-2023 11:13:22 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[28-Nov-2023 13:16:39 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[28-Nov-2023 21:23:42 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[29-Nov-2023 04:28:51 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[29-Nov-2023 09:23:32 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[29-Nov-2023 22:02:19 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[30-Nov-2023 03:59:27 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[01-Dec-2023 04:11:59 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[01-Dec-2023 06:02:05 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[01-Dec-2023 21:08:48 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[01-Dec-2023 21:14:46 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[02-Dec-2023 03:54:44 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[02-Dec-2023 09:55:19 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[02-Dec-2023 11:22:49 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[03-Dec-2023 00:15:31 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[03-Dec-2023 06:14:01 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[03-Dec-2023 06:14:03 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[03-Dec-2023 06:14:05 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[03-Dec-2023 16:01:59 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[03-Dec-2023 16:19:59 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[03-Dec-2023 17:06:33 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[03-Dec-2023 21:50:34 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[03-Dec-2023 21:54:51 America/Fortaleza] PHP Warning:  Undefined array key "destinatario" in /home3/pousa584/public_html/enviar_email.php on line 16
+[03-Dec-2023 21:54:51 America/Fortaleza] PHP Warning:  Undefined array key "assunto" in /home3/pousa584/public_html/enviar_email.php on line 18
+[03-Dec-2023 21:54:51 America/Fortaleza] PHP Warning:  Undefined array key "mensagem" in /home3/pousa584/public_html/enviar_email.php on line 20
+[04-Dec-2023 08:37:15 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[04-Dec-2023 15:00:32 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[04-Dec-2023 17:46:34 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[04-Dec-2023 19:02:13 America/Fortaleza] PHP Warning:  Undefined array key "destinatario" in /home3/pousa584/public_html/enviar_email.php on line 16
+[04-Dec-2023 19:02:13 America/Fortaleza] PHP Warning:  Undefined array key "assunto" in /home3/pousa584/public_html/enviar_email.php on line 18
+[04-Dec-2023 19:02:13 America/Fortaleza] PHP Warning:  Undefined array key "mensagem" in /home3/pousa584/public_html/enviar_email.php on line 20
+[05-Dec-2023 05:18:49 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[05-Dec-2023 07:51:21 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[06-Dec-2023 17:00:06 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[06-Dec-2023 19:49:28 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[07-Dec-2023 21:52:22 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[08-Dec-2023 20:00:37 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[08-Dec-2023 23:50:33 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[09-Dec-2023 17:59:22 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[10-Dec-2023 15:16:44 America/Fortaleza] PHP Warning:  Undefined array key "destinatario" in /home3/pousa584/public_html/enviar_email.php on line 16
+[10-Dec-2023 15:16:44 America/Fortaleza] PHP Warning:  Undefined array key "assunto" in /home3/pousa584/public_html/enviar_email.php on line 18
+[10-Dec-2023 15:16:44 America/Fortaleza] PHP Warning:  Undefined array key "mensagem" in /home3/pousa584/public_html/enviar_email.php on line 20
+[10-Dec-2023 17:52:46 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[10-Dec-2023 17:59:22 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[10-Dec-2023 19:33:31 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[11-Dec-2023 07:28:21 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[11-Dec-2023 17:47:29 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[12-Dec-2023 01:39:23 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[12-Dec-2023 03:25:09 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[12-Dec-2023 05:27:13 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[12-Dec-2023 13:29:04 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[13-Dec-2023 00:13:42 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[13-Dec-2023 04:20:49 America/Fortaleza] PHP Warning:  Undefined array key "destinatario" in /home3/pousa584/public_html/enviar_email.php on line 16
+[13-Dec-2023 04:20:49 America/Fortaleza] PHP Warning:  Undefined array key "assunto" in /home3/pousa584/public_html/enviar_email.php on line 18
+[13-Dec-2023 04:20:49 America/Fortaleza] PHP Warning:  Undefined array key "mensagem" in /home3/pousa584/public_html/enviar_email.php on line 20
+[13-Dec-2023 04:21:41 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[13-Dec-2023 05:22:16 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[13-Dec-2023 05:46:48 America/Fortaleza] PHP Warning:  Undefined array key "destinatario" in /home3/pousa584/public_html/enviar_email.php on line 16
+[13-Dec-2023 05:46:48 America/Fortaleza] PHP Warning:  Undefined array key "assunto" in /home3/pousa584/public_html/enviar_email.php on line 18
+[13-Dec-2023 05:46:48 America/Fortaleza] PHP Warning:  Undefined array key "mensagem" in /home3/pousa584/public_html/enviar_email.php on line 20
+[13-Dec-2023 15:27:41 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[13-Dec-2023 21:16:52 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[13-Dec-2023 23:02:12 America/Fortaleza] PHP Warning:  Undefined array key "destinatario" in /home3/pousa584/public_html/enviar_email.php on line 16
+[13-Dec-2023 23:02:12 America/Fortaleza] PHP Warning:  Undefined array key "assunto" in /home3/pousa584/public_html/enviar_email.php on line 18
+[13-Dec-2023 23:02:12 America/Fortaleza] PHP Warning:  Undefined array key "mensagem" in /home3/pousa584/public_html/enviar_email.php on line 20
+[14-Dec-2023 04:55:36 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[15-Dec-2023 20:56:20 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[15-Dec-2023 22:21:37 America/Fortaleza] PHP Warning:  Undefined array key "destinatario" in /home3/pousa584/public_html/enviar_email.php on line 16
+[15-Dec-2023 22:21:37 America/Fortaleza] PHP Warning:  Undefined array key "assunto" in /home3/pousa584/public_html/enviar_email.php on line 18
+[15-Dec-2023 22:21:37 America/Fortaleza] PHP Warning:  Undefined array key "mensagem" in /home3/pousa584/public_html/enviar_email.php on line 20
+[16-Dec-2023 05:50:39 America/Fortaleza] PHP Warning:  Undefined array key "destinatario" in /home3/pousa584/public_html/enviar_email.php on line 16
+[16-Dec-2023 05:50:39 America/Fortaleza] PHP Warning:  Undefined array key "assunto" in /home3/pousa584/public_html/enviar_email.php on line 18
+[16-Dec-2023 05:50:39 America/Fortaleza] PHP Warning:  Undefined array key "mensagem" in /home3/pousa584/public_html/enviar_email.php on line 20
+[16-Dec-2023 15:15:21 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[17-Dec-2023 03:50:31 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[17-Dec-2023 05:16:15 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[17-Dec-2023 05:16:21 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[17-Dec-2023 05:16:36 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[17-Dec-2023 08:58:23 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[17-Dec-2023 08:58:36 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[17-Dec-2023 20:02:39 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45
+[17-Dec-2023 20:19:22 America/Fortaleza] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home3/pousa584/public_html/mail/PHPMailerAutoload.php on line 45

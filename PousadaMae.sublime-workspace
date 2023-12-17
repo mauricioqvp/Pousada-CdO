@@ -1,0 +1,331 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 6412,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Agu_Cry_05L_______F.jpg\nAgu_Cry_05L_______F.jpg\n\n\n\ncatalog/demo/produtos/bebidas/aguaesucos/Agu_Cry_05L_______F.jpg\ncatalog\\demo\\produtos\\bebidas\\aguaesucos",
+			"settings":
+			{
+				"buffer_size": 156,
+				"line_ending": "Windows",
+				"name": "Agu_Cry_05L_______F.jpg"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/pousada/Mae"
+	],
+	"file_history":
+	[
+		"/C/Users/mauri/CursoJAVA_Udemy/4Disciplina/WebContent/lib/js/funcoes.js",
+		"/C/Users/mauri/eclipse-workspace-2020/3Disciplina/.classpath",
+		"/C/wamp64/www/pousada/Mae/index.html",
+		"/C/wamp64/www/pousada/Mae/acesso.html",
+		"/C/wamp64/www/pousada/Mae/fotos.html",
+		"/C/wamp64/www/pousada/Mae/contato.html",
+		"/C/wamp64/www/PapelaoTemporario/index.php",
+		"/C/wamp64/www/Pousada/Mae/contato.html",
+		"/C/wamp64/www/Pousada/Mae/css/contato.css",
+		"/C/wamp64/www/Pousada/Mae/css/style.css",
+		"/C/wamp64/www/Pousada/Mae/doFormulario.php",
+		"/C/wamp64/www/Pousada/Mae/doCadastro.php",
+		"/C/wamp64/www/Pousada/Mae/index.html",
+		"/C/wamp64/www/Pousada/Mae/fotos.html",
+		"/C/wamp64/www/Pousada/Mae/acesso.html",
+		"/C/wamp64/www/Pousada/Mae/mostra.php",
+		"/C/wamp64/www/Pousada/Mae/treino.php",
+		"/C/wamp64/www/Pousada/EmPortugues/index.html",
+		"/C/wamp64/www/Pousada/EmIngles/index.php",
+		"/C/wamp64/www/Pousada/Mae/index.php",
+		"/C/Users/mauri/AppData/Local/Temp/index.php_20190423225403.php",
+		"/C/wamp64/logs/php_error.log",
+		"/C/wamp64/www/PapelaoTemporario/config.php",
+		"/C/Users/mauri/AppData/Local/Temp/index.php_20190422213746.php",
+		"/C/wamp64/www/PapelaoTemporario/system/startup.php",
+		"/C/wamp64/www/PapelaoTemporario/system/storage/vendor/autoload.php",
+		"/C/wamp64/www/PapelaoTemporario/system/framework.php",
+		"/C/wamp64/www/PapelaoTemporario/MeusRecursos/Htmls/Email_EstoqueEsgotado/index.php",
+		"/C/wamp64/www/PapelaoTemporario/system/config/admin.php",
+		"/C/wamp64/www/PapelaoTemporario/system/config/default.php",
+		"/C/wamp64/www/PapelaoTemporario/catalog/view/theme/default/template/common/footer.twig",
+		"/C/wamp64/www/PapelaoTemporario/catalog/view/theme/default/template/common/content_bottom.twig",
+		"/C/wamp64/www/PapelaoTemporario/admin/view/template/common/footer.twig",
+		"/C/wamp64/www/PapelaoTemporario/catalog/view/theme/default/template/common/header.twig",
+		"/C/wamp64/www/PapelaoTemporario/admin/view/template/common/header.twig",
+		"/C/wamp64/www/Pousada/EmIngles/cabecalho.html",
+		"/C/wamp64/www/PapelaoTemporario/admin/view/template/common/dashboard.twig",
+		"/C/wamp64/www/Pousada/EmIngles/acesso.php",
+		"/C/wamp64/www/Pousada/EmIngles/fotos.php",
+		"/C/wamp64/www/Pousada/EmIngles/contato.php",
+		"/C/wamp64/www/Pousada/EmIngles/rodape.html",
+		"/C/wamp64/www/DivulgacaoFacebook/index.html",
+		"/C/wamp64/www/DivulgacaoFacebook/images/Mia and Bea's Halloween.png",
+		"/C/Users/Mauricio/Downloads/opencart3.X.ocmod/install.xml",
+		"/C/wamp64/www/PapelaoTemporario/system/engine/action.php",
+		"/C/wamp64/www/PapelaoTemporario/system/config/install.php",
+		"/C/wamp64/www/PapelaoTemporario/catalog/view/theme/default/stylesheet/stylesheet.css",
+		"/C/wamp64/www/PapelaoTemporario/install/view/stylesheet/stylesheet.css",
+		"/C/wamp64/www/PapelaoTemporario/admin/view/stylesheet/stylesheet.css",
+		"/C/wamp64/bin/mysql/mysql5.7.24/my.ini",
+		"/C/wamp64/logs/mysql.log",
+		"/C/wamp64/www/PapelaoTemporario/index.html",
+		"/C/wamp64/www/jogo/index.html",
+		"/C/Users/Mauricio/Documents/wwwTemp/config.php",
+		"/C/wamp64/www/Projetos/PapelaoTemporario/index.php",
+		"/C/wamp64/www/index.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ciclodou",
+			"passw"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ciclodoou"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6412,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5960,
+								5960
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 612.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 156,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								116,
+								116
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Agu_Cry_05L_______F.jpg",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "PousadaMae.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

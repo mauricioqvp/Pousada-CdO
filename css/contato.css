@@ -1,0 +1,106 @@
+/*============== RESET ===============*/
+/* { margin: 0; padding: 0; font-size: 100%; border: none; outline: none; font-weight: 300; box-sizing: border-box;
+font-family: 'Lato', sans-serif; }
+body { background-color: #f5f5f5; }
+a { text-decoration: none; }
+ul { list-style: none; }
+img { max-width: 100%; }
+*/
+
+
+/*=============== TABLE ==============*/
+tr { line-height: 36px; font-size: small; }
+
+input, textarea { background-color: darkkhaki; color: white; border-radius: 2px; padding: 4px 4px; }
+
+.formulario { width: auto; }
+
+	/* SMALL DEVICES - TABLETS */
+@media screen and (min-width: 768px){
+.servico { width: 100%; float: left; margin-right: 2%; }
+.servico:nth-child(2){ margin-right: 0; }
+.newsletter h2 { font-size: 2em; }
+.newsletter h3 { font-size: 1.5em; }
+.newsletter input { width: 70%; padding: 2%; float: left; margin-right: 1%; }
+.newsletter button { width: 29%; padding: 2%; float: right; margin-top: 0; }
+	
+	/* logo pousada ciclo do ouro */
+.logo_pousada1{ float: left; -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box; }
+.logo_pousada2{ float: left; -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box; position: relative; left: -60px; top: 20px; }
+.Estilodecaracterenormal1{
+	font-family: 'Dancing Script', cursive;
+	font-size : 42px;
+	color : #F47F0B;
+	color : rgb(0, 0, 168);
+	text-outline : #1C1B1A;
+	text-outline : rgb(0, 0, 168);
+}
+.Estilodecaracterenormal{
+	font-family: 'Dancing Script', cursive;
+	font-style : italic;
+	font-size : 34px;
+	color : #000000;
+	color : rgb(0, 0, 168);
+}	
+	
+}
+
+	/* MEDIUM DEVICES - TABLETS & DESKTOPS */
+@media screen and (min-width: 960px){
+.title { width: 70%; float: left; text-align: left; }
+.title h2 { font-size: 3em; }
+.title h3 { font-size: 2em; }
+.buttons { width: 30%; float: right; margin-top: 0; }
+/*.servico { width: 32%; }*/
+.servico:nth-child(2){ margin-right: 2%; }
+.servico:nth-child(3){ margin-right: 0; }
+.newsletter input { width: 60%; float: none; }
+.newsletter button { width: 20%; float: none; }
+
+.Estilodecaracterenormal1{
+	font-family: 'Dancing Script', cursive;
+	font-size : 42px;
+	color : #F47F0B;
+	color : rgb(0, 0, 168);
+	text-outline : #1C1B1A;
+	text-outline : rgb(0, 0, 168);
+}
+.Estilodecaracterenormal{
+	font-family: 'Dancing Script', cursive;
+	font-style : italic;
+	font-size : 34px;
+	color : #000000;
+	color : rgb(0, 0, 168);
+}
+	
+}
+
+	/* LARGE DEVICES - WILD SREEN */
+@media screen and (min-width: 1280px){
+.btn-menu { display: none; }
+.btn-close { display: none; }
+.menu { width: auto; height: 56px; line-height: 56px; float: right; background-color: #f5f5f5; display: block !important; position: static; }
+.menu li { padding: 0; float: left; }
+.menu li a { color: #130400; font-size: 1em; padding: 15px; }
+.menu li a:hover { border: none; color: #da6709; }
+
+.Estilodecaracterenormal1{
+	font-family: 'Dancing Script', cursive;
+	font-size : 42px;
+	color : #F47F0B;
+	color : rgb(0, 0, 168);
+	text-outline : #1C1B1A;
+	text-outline : rgb(0, 0, 168);
+}
+	
+.Estilodecaracterenormal{
+	font-family: 'Dancing Script', cursive;
+	font-style : italic;
+	font-size : 34px;
+	color : #000000;
+	color : rgb(0, 0, 168);
+}
+	
+input, textarea { width: 80%; }
+	
+}
